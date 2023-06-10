@@ -1,2 +1,2 @@
 # proofofconcepts
-This repository holds different proff of concepts 
+This repository holds different proof of concepts 
